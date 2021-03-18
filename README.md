@@ -1,4 +1,4 @@
-# terminal
+# Terminal
 Todas as configurações de terminal e vim
 
 * https://blog.rocketseat.com.br/terminal-com-oh-my-zsh-spaceship-dracula-e-mais/
